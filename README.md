@@ -122,7 +122,7 @@ All scripts read their input path from the configuration file `user_input_data.j
 2. Find the line with the key `"video"`:
 	 ```json
 	 {
-		 "video": "path/to/your/video_or_image_folder",
+		 "video": "absolute_path_of_the_folder_or_video",
 		 ...existing config...
 	 }
 	 ```
