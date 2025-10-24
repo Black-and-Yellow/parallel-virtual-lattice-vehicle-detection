@@ -1,0 +1,9 @@
+{
+    "video": "D:\\IIT-Hyd-Intern\\DETRAC-Images\\DETRAC-Images\\MVI_39761",
+    "color_channel": "V",
+    "grids": {
+        "rows": 8,
+        "cols": 8
+    },
+    "execution_mode": "Parallel"
+}
